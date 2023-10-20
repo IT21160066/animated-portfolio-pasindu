@@ -70,11 +70,11 @@
         right: 0;
 
          @include mobile {
-                height: 50%;
-                width: 100%;
-                top: unset;
-                bottom: 0;
-            }
+            height: 50%;
+            width: 100%;
+            top: unset;
+            bottom: 0;
+        }
             
             img {
                 width: 100%;
